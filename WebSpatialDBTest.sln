@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSpatialDBTest", "WebSpatialDBTest\WebSpatialDBTest.csproj", "{3DE042D4-34DF-4C41-92BF-E91F093907C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSpatialDBTest.Tests", "WebSpatialDBTest.Tests\WebSpatialDBTest.Tests.csproj", "{8AF8DF66-ED87-4BF0-81FE-85DE8123BD2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DE042D4-34DF-4C41-92BF-E91F093907C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DE042D4-34DF-4C41-92BF-E91F093907C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DE042D4-34DF-4C41-92BF-E91F093907C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DE042D4-34DF-4C41-92BF-E91F093907C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AF8DF66-ED87-4BF0-81FE-85DE8123BD2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF8DF66-ED87-4BF0-81FE-85DE8123BD2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF8DF66-ED87-4BF0-81FE-85DE8123BD2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF8DF66-ED87-4BF0-81FE-85DE8123BD2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

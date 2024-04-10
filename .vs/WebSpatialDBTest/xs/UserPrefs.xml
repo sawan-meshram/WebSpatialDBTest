@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3DE042D4-34DF-4C41-92BF-E91F093907C4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebSpatialDBTest/SpatialDBTest.cs">
+    <Files>
+      <File FileName="WebSpatialDBTest/Default.aspx" Line="13" Column="1" />
+      <File FileName="WebSpatialDBTest/Default.aspx.cs" Line="12" Column="34" />
+      <File FileName="WebSpatialDBTest/SpatialDBTest.cs" Line="19" Column="44" />
+      <File FileName="WebSpatialDBTest.Tests/packages.config" Line="8" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebSpatialDBTest PreferredExecutionTarget="firefox" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WebSpatialDBTest.Tests FirstBuild="True" />
+</Properties>
